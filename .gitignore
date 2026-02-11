@@ -1,0 +1,19 @@
+# Backup directories
+/var/backups/system-cleaner/
+
+# Audit logs
+/var/log/system-cleaner-audit.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
